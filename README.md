@@ -2,3 +2,5 @@
 
 - link a la competencia de Kaggle:
 https://www.kaggle.com/t/f477d6cc8ce34161a33bcc02ad055912
+
+-link para editar el Overleaf: https://www.overleaf.com/9417539673jysjrdhjnjvs
