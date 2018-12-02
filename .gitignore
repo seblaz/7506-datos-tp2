@@ -1,3 +1,7 @@
+# Ignore
 __pycache__
 .ipynb_checkpoints
-fiuba-trocafone-tp2-final-set
+fiuba-trocafone-tp2-final-set/*
+
+# Allow
+!fiuba-trocafone-tp2-final-set/BR.txt
