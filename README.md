@@ -1,6 +1,6 @@
-# Repositorio para el tp2 de datos
+# Predicting user conversions
 
-- link a la competencia de Kaggle:
-https://www.kaggle.com/t/f477d6cc8ce34161a33bcc02ad055912
+Desarrollo de algoritmos de Machine Learning para la competenecia de Kaggle
+[www.kaggle.com/c/trocafone](https://www.kaggle.com/c/trocafone) en al que obtuvimos el segundo puesto.
 
--link para editar el Overleaf: https://www.overleaf.com/9417539673jysjrdhjnjvs
+Si se desa se puede leer el [informe](https://github.com/seblaz/Predicting-user-conversions/blob/master/Informe.pdf) con más detalles.
