@@ -1,7 +1,7 @@
 # Predicting user conversions
 
 Desarrollo de algoritmos de Machine Learning para la competencia de Kaggle
-[www.kaggle.com/c/trocafone](https://www.kaggle.com/c/trocafone) en la que obtuvimos el segundo puesto.
+[www.kaggle.com/c/trocafone](https://www.kaggle.com/c/trocafone) en la que obtuvimos el **segundo puesto**.
 
 ## Competencia
 
@@ -29,10 +29,11 @@ Algunos de los algoritmos de Machine Learning utilizados fueron:
 
 A su vez los resultados de los algoritmos de machine learning fueron combinados para obtener un mejor resultado en los siguientes ensambles:
 
- - [Blending]()
- - [Stacking]()
+ - [Blending](https://mlwave.com/kaggle-ensembling-guide/)
+ - [Stacking](https://mlwave.com/kaggle-ensembling-guide/)
  
 ## Prerequisitos
+
  - [Python 3](https://www.python.org/)
 
 ## Instalación

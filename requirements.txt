@@ -1,0 +1,9 @@
+jupyterlab
+pandas
+numpy
+scikit-learn
+matplotlib
+requests
+bayesian-optimization
+ipywidgets
+xgboost
